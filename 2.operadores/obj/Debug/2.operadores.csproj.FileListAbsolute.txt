@@ -1,0 +1,7 @@
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\obj\Debug\2.operadores.csproj.AssemblyReference.cache
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\obj\Debug\2.operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\bin\Debug\2.operadores.exe.config
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\bin\Debug\2.operadores.exe
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\bin\Debug\2.operadores.pdb
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\obj\Debug\2.operadores.exe
+C:\Users\B09S305est\Documents\Juan Luis Echeverri FP\JuanLuisEcheverriFP8\2.operadores\obj\Debug\2.operadores.pdb
