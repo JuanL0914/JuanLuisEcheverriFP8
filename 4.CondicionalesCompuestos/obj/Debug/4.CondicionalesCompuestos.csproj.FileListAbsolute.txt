@@ -1,0 +1,7 @@
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\bin\Debug\4.CondicionalesCompuestos.exe.config
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\bin\Debug\4.CondicionalesCompuestos.exe
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\bin\Debug\4.CondicionalesCompuestos.pdb
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\obj\Debug\4.CondicionalesCompuestos.csproj.AssemblyReference.cache
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\obj\Debug\4.CondicionalesCompuestos.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\obj\Debug\4.CondicionalesCompuestos.exe
+C:\Users\B09S305est\source\repos\4.CondicionalesCompuestos\obj\Debug\4.CondicionalesCompuestos.pdb
