@@ -1,4 +1,10 @@
 ﻿/*namespace _6.CondicionalMultipleTerciario
+ * 6. Tiendas La Avenida desea desarrollar un programa que permita ingresar por teclado el monto de compra y el día de la semana, para saber: 
+Si el día es martes o jueves, se realizará un descuento del 15% por la compra.  
+Si el día es lunes o miércoles, se realizará un descuento del 10% por la compra. 
+Si el día es viernes o sábado, se realizará un descuento del 20% por la compra. 
+Si es domingo no se realiza descuento. 
+Visualizar el día, el descuento y el total a pagar por la compra. 
 {
     internal class Program
     {
@@ -58,6 +64,7 @@
 using System.Security.Cryptography;
 
 internal class Program
+    //Diseñar un algoritmo que permita crear una calculadora básica capaz de realizar operaciones aritméticas entre dos números ingresados por el usuario. Las operaciones disponibles serán: suma, resta, multiplicación y división, las cuales se ejecutarán según la opción seleccionada por el usuario.
 {
     static void Main(string[] args)
     {

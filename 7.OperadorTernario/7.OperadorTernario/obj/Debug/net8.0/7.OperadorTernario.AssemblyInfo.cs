@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7.OperadorTernario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c88c4d433a30b0c4fd60c07dbaf1f1c5e390fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3cab97c210b8aa421ae603834fb8b94ed01e1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("7.OperadorTernario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7.OperadorTernario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
