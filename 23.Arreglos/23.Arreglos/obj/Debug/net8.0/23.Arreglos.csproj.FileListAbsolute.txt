@@ -1,0 +1,15 @@
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\bin\Debug\net8.0\23.Arreglos.exe
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\bin\Debug\net8.0\23.Arreglos.deps.json
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\bin\Debug\net8.0\23.Arreglos.runtimeconfig.json
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\bin\Debug\net8.0\23.Arreglos.dll
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\bin\Debug\net8.0\23.Arreglos.pdb
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.AssemblyInfoInputs.cache
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.AssemblyInfo.cs
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.sourcelink.json
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.dll
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\refint\23.Arreglos.dll
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.pdb
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\23.Arreglos.genruntimeconfig.cache
+C:\Users\B09S305est\Documents\JuanLuisEcheverriFP8\23.Arreglos\23.Arreglos\obj\Debug\net8.0\ref\23.Arreglos.dll
