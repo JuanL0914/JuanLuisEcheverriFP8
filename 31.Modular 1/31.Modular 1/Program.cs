@@ -1,4 +1,5 @@
 ﻿namespace _31.Modular_1
+    //Crear una matriz de n filas por m columnas, que permita ingresar solamente múltiplos de 5 hasta que se llene la matriz. 
 {
     internal class Program
     {
