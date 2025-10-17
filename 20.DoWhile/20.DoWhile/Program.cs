@@ -11,7 +11,35 @@ El porcentaje de partidos ganados*/
     {
         static void Main(string[] args)
         {
-            
+            int partidosGanados = 0;
+            int partidosPerdidos = 0;
+            int partidosEmpatados = 0;
+            int partidosJugados = 0;
+            int totalPartidos = 30;
+            do
+            {
+                Console.WriteLine("Ingrese el resultado del partido (G: Ganado, P: Perdido, E: Empatado): ");
+                string resultado = Console.ReadLine().ToUpper();
+                switch (resultado)
+                {
+                    case "G":
+                        partidosGanados++;
+                        break;
+                    case "P":
+                        partidosPerdidos++;
+                        break;
+                    case "E":
+                        partidosEmpatados++;
+                        break;
+
+                }
+                partidosJugados++;
+            } while (partidosJugados < totalPartidos);
+            Console.WriteLine($"Total de partidos jugados: {totalPartidos}");
+            Console.WriteLine($"Partidos Ganados: {partidosGanados} ({(partidosGanados * 100) / totalPartidos}%)");
+            Console.WriteLine($"Partidos Empatados: {partidosEmpatados} ({(partidosEmpatados * 100) / totalPartidos}%)");
+            Console.WriteLine($"Partidos Perdidos: {partidosPerdidos} ({(partidosPerdidos * 100) / totalPartidos}%)");
         }
     }
 }
+

@@ -11,7 +11,42 @@ Muestra la matriz resultante de la suma en formato de matriz(2 filas, 3 columnas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-        }
+            int[,] matriz1 = new int[2, 3];
+            int[,] matriz2 = new int[2, 3];
+            int[,] matrizSuma = new int[2, 3];
+            Console.WriteLine("Ingrese los elementos de la primera matriz (2x3):");
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"Elemento [{i + 1},{j + 1}]: ");
+                    matriz1[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("Ingrese los elementos de la segunda matriz (2x3):");
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"Elemento [{i + 1},{j + 1}]: ");
+                    matriz2[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    matrizSuma[i, j] = matriz1[i, j] + matriz2[i, j];
+                }
+            }
+            Console.WriteLine("Matriz resultante de la suma:");
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(matrizSuma[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
     }
 }

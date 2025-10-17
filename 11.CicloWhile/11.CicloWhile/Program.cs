@@ -5,7 +5,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int numero = 0;
+            int suma = 0;
+
+            Console.WriteLine("Ingrese numeros enteros positivos (ingrese un numero negativo para finalizar: )");
+            numero = int.Parse(Console.ReadLine());
+
+            while (numero >= 0)
+            {
+                suma = suma + numero;
+                Console.WriteLine("Ingrese otro numero:");
+                numero = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine($"La suma total de los numeros es: {suma}");
         }
     }
 }

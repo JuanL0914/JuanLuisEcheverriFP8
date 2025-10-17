@@ -7,7 +7,15 @@ namespace _24.Arreglos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] numeros = new int[100];
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                numeros[i] = 10;
+            }
+            for (int i = 0; i < numeros.Length; i++)
+            {
+                Console.WriteLine($"Posición {i + 1}: {numeros[i]}");
+            }
         }
     }
 }

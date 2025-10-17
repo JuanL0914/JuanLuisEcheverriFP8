@@ -7,7 +7,22 @@ namespace _15.CicloWhile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int mes = 1;
+            double deposito = 0;
+            double ahorroTotal = 0;
+
+            Console.WriteLine("Programa para calcular el ahorro anual con depositos mensuales variable.");
+
+            while (mes <= 12)
+            {
+                Console.WriteLine($"Ingrese la cantidad que va a depositar en el mes {mes}:");
+                deposito = double.Parse( Console.ReadLine());
+
+                ahorroTotal = ahorroTotal + deposito;
+                Console.WriteLine($"Ahorro acumulado hasta el mes {mes}: {ahorroTotal}");
+                mes++;
+            }
+            Console.WriteLine($"El ahorro total al final del año es {ahorroTotal}");
         }
     }
 }

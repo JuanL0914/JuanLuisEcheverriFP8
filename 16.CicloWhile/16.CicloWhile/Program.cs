@@ -5,7 +5,30 @@
     {
         static void Main(string[] args)
         {
+            Random rnd = new Random();
+            int numeroSecreto = rnd.Next(1, 101); // número aleatorio entre 1 y 100
+            int intento = 0;
 
+            Console.WriteLine("Adivina el número entre 1 y 100:");
+
+            while (intento != numeroSecreto)
+            {
+                Console.Write("Ingresa tu intento: ");
+                intento = int.Parse(Console.ReadLine());
+
+                if (intento > numeroSecreto)
+                {
+                    Console.WriteLine("El número es demasiado alto.\n");
+                }
+                else if (intento < numeroSecreto)
+                {
+                    Console.WriteLine("El número es demasiado bajo.\n");
+                }
+                else
+                {
+                    Console.WriteLine($"¡Correcto! El número era {numeroSecreto}.");
+                }
+            }
         }
     }
 }
